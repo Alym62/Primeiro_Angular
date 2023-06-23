@@ -1,0 +1,12 @@
+.icoWhatsapp {
+  color: #000;
+  font-size: 20px;
+}
+
+.icoWhatsapp:hover {
+  color: #48c857;
+}
+
+input {
+  margin-bottom: 20px;
+}

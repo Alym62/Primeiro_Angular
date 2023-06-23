@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@400;500;600;700&family=Montserrat:wght@100;400;500;600;700;800;900&display=swap');
+
+h1 {
+  font-family: 'Mohave', sans-serif;
+  font-weight: 700;
+}
+
+.mini-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+}
+
+.carousel-item:nth-child(1) {
+  background-image: url("https://www.10wallpaper.com/wallpaper/1366x768/2306/The_Flash_2023_Movie_5K_HD_Logo_Poster_1366x768.jpg");
+  min-height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.carousel-item:nth-child(2) {
+  background-image: url("https://www.10wallpaper.com/wallpaper/3840x2160/1804/2018_Avengers_Infinity_War_4K_Film_3840x2160.jpg");
+  min-height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.carousel-item:nth-child(3) {
+  background-image: url("https://www.10wallpaper.com/wallpaper/1366x768/2306/2023_Transformers_Rise_of_the_Beasts_IMAX_Movie_5K_1366x768.jpg");
+  min-height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

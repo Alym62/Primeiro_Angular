@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Alyasaf",
+      "mensagem": "Meu primeiro projeto usando angular!"
+    },
+    {
+      "nome": "Daniel",
+      "mensagem": "Eu amo esse diretor!!",
+      "id": 2
+    }
+  ]
+}
